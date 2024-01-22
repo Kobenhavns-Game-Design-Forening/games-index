@@ -4,6 +4,7 @@ banner = "banner.jpg"
 version = "0.0.1-beta4"
 developer = "Testing Studios"
 id = "1367782345based420"
+tags = ["Survival", "Testing", "Singleplayer"]
 
 [page]
 description = "description.md"
