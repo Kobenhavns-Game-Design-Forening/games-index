@@ -1,0 +1,5 @@
+[index]
+version = v1
+games = [
+    "test_game"
+]

@@ -1,0 +1,12 @@
+[project]
+title = "Test Game"
+banner = "banner.jpg"
+version = "0.0.1-beta4"
+developer = "Testing Studios"
+id = "1367782345based420"
+
+[page]
+description = "description.md"
+
+[platform.x86_64.windows]
+command = "test_game.exe"
